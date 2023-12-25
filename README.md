@@ -7,5 +7,5 @@ This was done by using "Google Maps API" and "NASA Open API"!
 - CSS
 - JavaScript (ES6)
 - [React.js](https://react.dev/)
-- [NASA Open API](https://api.nasa.gov/)https://api.nasa.gov/
+- [NASA Open API](https://api.nasa.gov/)
 - [Google-Map-React](https://www.npmjs.com/package/google-map-react) Library (Google Maps API)
