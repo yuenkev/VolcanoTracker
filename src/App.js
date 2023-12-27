@@ -20,7 +20,7 @@ function App() {
 
     fetchEvents()
 
-    console.log(eventData)
+    //console.log(eventData)
   }, [])
 
   return (
