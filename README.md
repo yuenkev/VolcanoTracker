@@ -2,7 +2,7 @@
 Volcano tracker is a react web application game that tracks all the volcano's on Earth! When a volcano icon is clicked on the map, it will display the ID of the volcano, name/title of the volcano, and the link for more information. 
 This was done by using "Google Maps API" and "NASA Open API"!
 
-Hosting
+# Hosting
 This web application is hosted on Netlify and you can access it through the link below:
 
 https://kevin-yuen-volcano-tracker.netlify.app
